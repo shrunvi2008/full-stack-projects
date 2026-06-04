@@ -1,2 +1,4 @@
 # full-stack-projects
-this is my first git repository
+This is my first git repository
+Author-Shrunvi kamolkar
+
